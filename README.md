@@ -37,11 +37,11 @@ The goal is to **identify the most in-demand technical and soft skills**, explor
 
 ## 📷 Dashboard Snapshots
 
-![Overall KPIs](assets\Report-1[Top_KPIs].png)
+![Overall KPIs](assets/Report-1[Top_KPIs].png)
 
-![Skills Analysis](assets\Report-2[Skills_Analysis].png)
+![Skills Analysis](assets/Report-2[Skills_Analysis].png)
 
-![Salary & Experience Trends](assets\Report-3[Salary&Experience_Trends].png)
+![Salary & Experience Trends](assets/Report-3[Salary&Experience_Trends].png)
 
 ![Job Opportunities Map](assets/Report-4[Opportunity_Map].png)
 
