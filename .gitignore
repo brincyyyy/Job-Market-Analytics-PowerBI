@@ -1,0 +1,4 @@
+.gradle/
+*.pbix~
+*.tmp
+*.log
