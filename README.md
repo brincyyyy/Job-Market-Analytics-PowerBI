@@ -1,7 +1,8 @@
 # 💼 Job Market Analytics Dashboard (India) - Power BI Data Analysis Project
 
+This project analyzes entry-level job trends in the Indian job market using data from Naukri.com via Kaggle.
 
-
+The goal is to identify the most in-demand technical and soft skills, explore salary trends, and help students and professionals align their learning with market needs.
 
 
 ## 🎯 Project Objectives
